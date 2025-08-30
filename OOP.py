@@ -43,7 +43,6 @@ def birthday_tester():
     simulation = Birthday(people, trials)
     print(simulation)
 
-# ---------------- Run the tester ----------------
 if __name__ == "__main__":
     birthday_tester()
     
